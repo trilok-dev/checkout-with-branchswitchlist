@@ -1,4 +1,4 @@
-Exec,Repository,Ref
-B,model_build,main
-B,GithubActionsDemo,master
-B,devops_project1_tp,master
+repo,ref
+model_build,main
+GithubActionsDemo,master
+devops_project1_tp,master
